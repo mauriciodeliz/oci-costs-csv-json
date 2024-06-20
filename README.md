@@ -1,4 +1,4 @@
-- OCI Costs from FOCUS Report - LastDay
+- OCI Costs from FOCUS Report - LastDay (Example: Running today, get data from yesterday)
   
 📊 FOCUS Reports Backup Script
 This script is designed to download and process OCI (Oracle Cloud Infrastructure) FOCUS reports. It retrieves daily report files, decompresses them, processes the data, and outputs relevant information in JSON format. The script also calculates and formats the total billed cost.
