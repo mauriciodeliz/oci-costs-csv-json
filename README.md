@@ -1,14 +1,14 @@
-# oci-costs-csv-json
-Script utilizado para coleta dos DADOS (FOCUS - OCI)
 
+Claro! Vou melhorar a formatação para tornar o README mais visualmente atraente e chamativo:
 
+📊 FOCUS Reports Backup Script
 This script is designed to download and process OCI (Oracle Cloud Infrastructure) FOCUS reports. It retrieves daily report files, decompresses them, processes the data, and outputs relevant information in JSON format. The script also calculates and formats the total billed cost.
 
-Dependencies
+🛠️ Dependencies
 Python 3.x
-oci library
+OCI library (oci)
 Standard Python libraries: os, csv, json, glob, gzip, datetime, locale
-Script Overview
+📝 Script Overview
 Locale Setup
 
 Sets the locale to pt_BR.UTF-8 for formatting numbers and currency in Brazilian Portuguese.
