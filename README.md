@@ -36,3 +36,11 @@ JSON Output
 
 Converts filtered data to JSON format and prints it.
 Prints the total billed cost in Brazilian Reais (R$).
+
+- Process running
+![focus-download](https://github.com/mauriciodeliz/oci-costs-csv-json/assets/25036372/4ba55f40-3d34-4dad-92d9-ba6729fc4fdd)
+
+- Result
+![image](https://github.com/mauriciodeliz/oci-costs-csv-json/assets/25036372/f54d27fc-1003-43ba-82a8-c64663aed3c4)
+
+
