@@ -5,8 +5,9 @@ This script is designed to download and process OCI (Oracle Cloud Infrastructure
 
 🛠️ Dependencies
 Python 3.x
-OCI library (oci)
+OCI library (oci) - Setup de default configuration ~/.oci/config
 Standard Python libraries: os, csv, json, glob, gzip, datetime, locale
+
 📝 Script Overview
 Locale Setup
 
@@ -36,6 +37,10 @@ JSON Output
 
 Converts filtered data to JSON format and prints it.
 Prints the total billed cost in Brazilian Reais (R$).
+
+⚠️ Error Handling
+The script includes basic error handling for OCI service errors during the report download phase. It will print the error message if any issues occur while retrieving object metadata.
+
 
 - Process running
 
